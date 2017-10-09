@@ -1,0 +1,6 @@
+g:\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Release\Prism_to_OpenDDS.exe.config
+g:\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Release\Prism_to_OpenDDS.exe
+g:\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Release\Prism_to_OpenDDS.pdb
+g:\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Release\Prism_to_OpenDDS.exe
+g:\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Release\Prism_to_OpenDDS.pdb
+g:\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Release\Prism_to_OpenDDS.csprojResolveAssemblyReference.cache
