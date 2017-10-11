@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 
 namespace Prism_to_OpenDDS
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
@@ -29,7 +29,7 @@ namespace Prism_to_OpenDDS
             string outFileName = args[1];
 #else
             string inFileName = @"C:\GVA_DM\IDL_Output\Alarms\Alarms_PSM_Prism.idl";
-            string outFileName = @"C:\GVA_DM\IDL_Output\Alarms\Alarms_PSM_OpenDDS.idl"; ;
+            string outFileName = @"C:\GVA_DM\IDL_Output\Alarms\Alarms_PSM_OpenDDS.idl";
 #endif
             if (!File.Exists(inFileName))
             {
