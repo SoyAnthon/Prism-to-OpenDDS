@@ -1,0 +1,1 @@
+START /I Prism_to_OpenDDS.exe C:\GIT\AreaJDT\DotNET\FrameworkSupervisorUHS\30.VistaFisica\Lenguaje Configuracion\IDLS
